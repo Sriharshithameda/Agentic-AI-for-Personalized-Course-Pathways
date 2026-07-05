@@ -1,0 +1,16 @@
+{
+  "app_name": "LearnMate",
+  "problem_statement": "Agentic AI for Personalized Course Pathways",
+  "domain": "Education (EdTech)",
+  "description": "An AI-powered personalized learning assistant that recommends courses, generates adaptive learning roadmaps, and provides career guidance using IBM Granite Models and watsonx.ai.",
+  "technologies": [
+    "IBM Granite-4.0-8B",
+    "IBM watsonx.ai",
+    "IBM Cloud Lite",
+    "LangFlow",
+    "RAG",
+    "FAISS",
+    "FastAPI",
+    "Streamlit"
+  ]
+}
